@@ -2,11 +2,16 @@
 title: "Resume"
 ---
 
-# Education
+## Education
 
--   List your education here.
+-   Master of Geomatics for Environmental Management, University of British Columbia (UBC), Canada – Vancouver, BC, Expected April 2026.
 
-# Publications
+-   Micro credential in Geospatial Data Collection, Analysis, and Interpretation, Seneca Polytechnic, Canada – Toronto, ON, April 2024.
+
+-   Bachelor of Forestry and Wildlife Management (Forestry Major), Federal University of Agriculture, Abeokuta (FUNAAB) – Ogun, Nigeria, February 2020.
+
+
+## Publications
 
 *Peer-reviewed publications:*
 
@@ -16,7 +21,7 @@ title: "Resume"
 
 -   List any non-peer reviewed materials you'd like to share here.
 
-# Conferences & Talks
+## Conferences & Talks
 
 *Invited Talks*
 
@@ -26,11 +31,16 @@ title: "Resume"
 
 -   If the presentation was at a conference, list them here.
 
-# Awards & Honors
+## Awards & Honors
 
--   List any scholarships, bursaries, etc.
+- Fully funded master’s program at UBC, Mastercard Foundation Scholarship, 2025
+-	Fully funded micro credential in GIS, Seneca Polytechnic, Quick Train Canada, 2024
+-	Award of Meritorious Service as Associate Agronomist, GBFOODS, Africa, 2023
+-	Reviewer for the year 2022, Current Agriculture Research Journal, India, 2022
+-	Data Science Micro degree scholarship, USTACKY, 2021	
+-	Best Graduating Student in the Department of Forestry and Wildlife Management 2020/21 session, FUNAAB, 2020
 
-# Teaching Assistantships
+## Teaching Assistantships
 
 -   List any TA positions you may have held.
 
