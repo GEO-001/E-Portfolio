@@ -1,22 +1,19 @@
 ---
-title: "My E-Portfolio"
-image: images/MGEM_logo.png
+title: "Oluwaseyi Ezekiel"
+image: images/geo2025.jpg
 about:
   template: trestles
   image-width: 20em
   links: 
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/ramon-melser-666932129/
-    - icon: twitter
-      text: Twitter/X
-      href: https://x.com/MelserRamon
+      href: https://www.linkedin.com/in/oluwaseyi-godwin-ezekiel-146148148?
     - icon: github
       text: GitHub
-      href: https://github.com/ramonmelser
+      href: https://github.com/GEO-001
     - icon: envelope-at
       text: Email
-      href: mailto:melser@student.ubc.ca
+      href: mailto:godwinoluwaseyi0@gmail.com
 ---
 
 Hey there people,
