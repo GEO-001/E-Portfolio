@@ -1,7 +1,6 @@
 project:
   type: website
-  output-dir: C:/MGEM2026/FCOR599/E-Portfolio"
-
+  output-dir:"C:/MGEM2026/FCOR599/E-Portfolio" 
 website:
   title: "Oluwaseyi Ezekiel"
   navbar:
