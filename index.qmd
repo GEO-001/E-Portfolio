@@ -11,13 +11,15 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/GEO-001
+    - icon
     - icon: envelope-at
       text: Email
       href: mailto:godwinoluwaseyi0@gmail.com
 ---
 
-Hey there people,
+## About Me
 
-This is your E-Portfolio landing page. Be sure to upload a professional headshot of yourself, and provide the appropriate links to your professional social media (linkedin, X/Twitter, etc). This is also a good place to provide a short summary of your education, career and interests. If you are associated with a lab or working with a research supervisor, it may be appropriate to provide some information on that here, along with links to relevant websites.
+I am passionate about advancing studies in spatial ecology and environmental management. My goal is to contribute to global conservation efforts that involve the integration of traditional monitoring and assessment methods with the latest technologies in remote sensing and Geographic Information Systems.
 
-Write something about myself, very exciting.
+In my spare time, you’ll probably find me at a chessboard, playing Scrabble, or at the piano.
+
